@@ -48,3 +48,5 @@ This project is currently being developed and improved. New features, reward fun
 ## Goal
 
 The long-term goal of this project is to develop a robust reinforcement learning framework capable of handling realistic autonomous driving tasks while serving as a research and learning platform for advanced self-driving vehicle technologies.
+
+🎥 [Watch Output Video](https://www.youtube.com/playlist?list=PLWZIE1fsy8kPGjP3uaFB_LDmxb1vFYFhs)
